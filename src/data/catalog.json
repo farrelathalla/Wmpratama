@@ -1,0 +1,1032 @@
+{
+ "products": [
+  {
+   "slug": "sp-mgt",
+   "category": "portable",
+   "oldSlug": "sales-portable-multi-gas-detector-sp-mgt-1165527",
+   "name": "Portable Multi Gas Detector SP-MGT",
+   "model": "SP-MGT",
+   "type": "Portable Multi Gas Detector",
+   "description": [
+    "The SP-MGT is a portable multi-gas detector featuring diffusion type measurement, designed for industrial safety applications. It is capable of measuring O?, CO, H?S, and CH? concentrations. This device continuously monitors four critical gases and provides real-time alerts using LED indicators, sound, and vibration. The dual sensor for CO and H?S ensures highly accurate and reliable detection, even in high-risk environments."
+   ],
+   "features": [
+    {
+     "title": "Diffusion Type",
+     "text": "Utilizes diffusion-based gas detection for accurate and reliable monitoring."
+    },
+    {
+     "title": "Compact & Lightweight",
+     "text": "Designed for ease of use and portability."
+    },
+    {
+     "title": "Rechargeable Battery",
+     "text": "Long-lasting rechargeable battery for continuous operation."
+    },
+    {
+     "title": "Event Logging",
+     "text": "Stores up to 30 bump tests, events, and calibrations."
+    },
+    {
+     "title": "Simultaneous Gas Detection",
+     "text": "Detects up to 4 different gases at the same time."
+    },
+    {
+     "title": "High-performance Alarms",
+     "text": "Features both audible and vibrating alarms to provide immediate alerts in case of hazardous conditions."
+    },
+    {
+     "title": "Extended Battery Life",
+     "text": ""
+    },
+    {
+     "title": "",
+     "text": "P-type: Up to 25 hours of continuous use on a single charge (for 4–6 hours of operation)."
+    },
+    {
+     "title": "",
+     "text": "N-type: Up to 60 days of continuous use on a single charge (for 4–6 hours of operation)."
+    },
+    {
+     "title": "Configuration via IR Link",
+     "text": "Simplified setup and data management through exclusive IR Link technology."
+    },
+    {
+     "title": "Easy Check & Calibration",
+     "text": "Quick and convenient checks and calibration using a docking station."
+    },
+    {
+     "title": "Multi-docking Station",
+     "text": "Allows for easy bump testing and calibration of multiple devices simultaneously, improving operational efficiency."
+    },
+    {
+     "title": "Explosion-proof Certification",
+     "text": "Meets global explosion-proof standards required in all countries, ensuring safe operation in hazardous environments."
+    }
+   ],
+   "images": [
+    "/images/products/sp-mgt-1.webp",
+    "/images/products/sp-mgt-2.webp",
+    "/images/products/sp-mgt-3.webp"
+   ]
+  },
+  {
+   "slug": "sp-mgtp",
+   "category": "portable",
+   "oldSlug": "sales-portable-multi-gas-detector-sp-mgtp-1120826",
+   "name": "Portable Multi Gas Detector SP-MGTP",
+   "model": "SP-MGTP",
+   "modelNote": "Pump",
+   "type": "Sampling-Type Multi-Gas Detector for Up to 6 Gases",
+   "description": [
+    "The SP-MGTP is a sampling-type multi-gas detector designed to monitor up to six gases simultaneously. It is specifically engineered to detect the gases most commonly associated with industrial accidents, including those that cause oxygen deficiency, toxic gas poisoning, and the risk of gas explosions. This device can monitor up to six gases with 37 possible combinations of toxic and flammable gases. The concentrations of these gases are continuously displayed, and the detector activates visual, audible, and vibrating alarms when dangerous levels are detected, ensuring immediate alerts for safety."
+   ],
+   "features": [
+    {
+     "title": "Multi-gas Detection for Comprehensive Monitoring",
+     "text": "Detects up to 6 gases with 37 possible combinations, offering versatile applications for monitoring a wide range of industrial environments."
+    },
+    {
+     "title": "Sampling Type with Embedded Pump & Probe",
+     "text": "Ensures accurate and reliable gas sampling for continuous monitoring in diverse environments."
+    },
+    {
+     "title": "Real-time Monitoring for Immediate Results",
+     "text": "Provides continuous gas concentration readings, delivering immediate feedback on environmental conditions."
+    },
+    {
+     "title": "Water and Dustproof (IP67 Rating)",
+     "text": "Designed to endure rugged environments, offering reliable performance in harsh conditions."
+    },
+    {
+     "title": "High-performance Alarms",
+     "text": "Includes visual, audible, and vibrating alarms to immediately alert users to hazardous gas levels."
+    },
+    {
+     "title": "Event Log for Easy Tracking",
+     "text": "Automatically records recent events, including bump tests and calibrations, allowing for efficient tracking and maintenance."
+    },
+    {
+     "title": "IrDA Communication",
+     "text": "Simplifies configuration and data management with infrared communication."
+    },
+    {
+     "title": "Single Docking Station",
+     "text": "Provides a convenient docking station for easy bump testing and calibration, improving operational efficiency."
+    },
+    {
+     "title": "Explosion-proof Certification",
+     "text": "Complies with global explosion-proof standards, ensuring safe use in hazardous environments worldwide."
+    },
+    {
+     "title": "Pump Blockage Alarm",
+     "text": "Alerts users to any pump blockage, maintaining consistent and reliable operation."
+    },
+    {
+     "title": "Filter Contamination Check",
+     "text": "Enables users to visually inspect the filter status, ensuring proper operation and maintenance."
+    },
+    {
+     "title": "Three-button Operation",
+     "text": "The device features three intuitive buttons for easy and convenient operation."
+    }
+   ],
+   "images": [
+    "/images/products/sp-mgtp-1.webp",
+    "/images/products/sp-mgtp-2.webp",
+    "/images/products/sp-mgtp-3.webp"
+   ]
+  },
+  {
+   "slug": "sp-sgt",
+   "category": "portable",
+   "oldSlug": "sales-portable-single-gas-detector-disposable-type-1779179",
+   "name": "Portable Single Gas Detector (Disposable Type)",
+   "model": "SP-SGT",
+   "type": "Portable Single Gas Detector (Disposable Type)",
+   "description": [
+    "The SP-SGT is a compact, disposable single gas detector designed for continuous operation over a two-year period. It offers reliable detection for oxygen (O?) or toxic gases without the need for sensor or battery replacement, providing seamless, long-term protection in hazardous environments."
+   ],
+   "features": [
+    {
+     "title": "Disposable Design",
+     "text": "No need for battery or sensor replacement during the 2-year lifespan."
+    },
+    {
+     "title": "Continuous Operation",
+     "text": "Designed to operate continuously for two years, providing reliable protection."
+    },
+    {
+     "title": "IP67 Rating",
+     "text": "Excellent water and dustproof performance, ensuring durability in harsh conditions."
+    },
+    {
+     "title": "Automatic Sensor Error Detection",
+     "text": "Automatically detects sensor errors to ensure reliable performance."
+    },
+    {
+     "title": "High-performance Alarms",
+     "text": "Features both audible and vibrating alarms to provide immediate alerts in case of hazardous conditions."
+    },
+    {
+     "title": "Event Logging",
+     "text": "Automatically logs up to 30 events for easy tracking and troubleshooting."
+    },
+    {
+     "title": "Easy Configuration and Data Management",
+     "text": "Configuration and data management are facilitated via the IR Link, making it simple to use and maintain."
+    },
+    {
+     "title": "Simple Calibration",
+     "text": "Calibration is made easy using the docking station, ensuring consistent accuracy."
+    },
+    {
+     "title": "Multi-docking Station",
+     "text": "Allows for easy bump testing and calibration of multiple devices simultaneously, improving operational efficiency."
+    },
+    {
+     "title": "Explosion-proof Certification",
+     "text": "Meets the global explosion-proof standards required in all countries, ensuring safe operation in hazardous environments."
+    }
+   ],
+   "images": [
+    "/images/products/sp-sgt-1.webp",
+    "/images/products/sp-sgt-2.webp",
+    "/images/products/sp-sgt-3.webp"
+   ]
+  },
+  {
+   "slug": "sgt-p",
+   "category": "portable",
+   "oldSlug": "sales-portable-single-gas-detector-maintainable-type-4790764",
+   "name": "Portable Single Gas Detector (Maintainable type)",
+   "model": "SGT-P",
+   "type": "Portable Single Gas Detector (Maintainable Type)",
+   "description": [
+    "The SGT-P is a portable single gas detector designed for long-term industrial use. Unlike the disposable SGT, the SGT-P offers the flexibility of replacing both the sensor and the battery. This feature makes it ideal for environments that require continuous monitoring over extended periods. It provides real-time gas level monitoring, alerting users through LED, sound, and vibration when concentrations exceed preset safety thresholds. The SGT-P supports a broader range of gas types, making it suitable for various industrial applications."
+   ],
+   "features": [
+    {
+     "title": "Replaceable Design",
+     "text": "Allows for sensor and battery replacement, enabling long-term use with ongoing maintenance."
+    },
+    {
+     "title": "Power On/Off Function",
+     "text": "Provides the option to turn the device on or off as needed, conserving battery life when not in use."
+    },
+    {
+     "title": "Superior Durability",
+     "text": "Excellent water and dustproof (IP67) structure ensures reliable performance even in harsh environmental conditions."
+    },
+    {
+     "title": "Automatic Sensor Trouble Detection",
+     "text": "Continuously checks the sensor for issues, providing alerts if trouble is detected to ensure consistent performance."
+    },
+    {
+     "title": "High-performance Alarms",
+     "text": "Equipped with both audible and vibrating alarms to immediately alert users in case of hazardous gas concentrations."
+    },
+    {
+     "title": "Event Logging",
+     "text": "Automatically logs up to 30 events, making it easy to track historical data and troubleshoot issues."
+    },
+    {
+     "title": "Easy Configuration and Data Management",
+     "text": "Data configuration and management are simplified through IR Link, providing a seamless user experience."
+    },
+    {
+     "title": "Simple Calibration",
+     "text": "Calibration is facilitated using a docking station, ensuring accuracy and ease of use."
+    },
+    {
+     "title": "Multi-docking Station",
+     "text": "Allows for easy bump testing and calibration of multiple devices simultaneously, improving operational efficiency and reducing downtime."
+    },
+    {
+     "title": "Explosion-proof Certification",
+     "text": "Meets global explosion-proof standards required in all countries, ensuring safe operation in hazardous environments."
+    }
+   ],
+   "images": [
+    "/images/products/sgt-p-1.webp",
+    "/images/products/sgt-p-2.webp",
+    "/images/products/sgt-p-3.webp"
+   ]
+  },
+  {
+   "slug": "duo-tracer",
+   "category": "portable",
+   "oldSlug": "sales-portable-dual-gas-detector-1786299",
+   "name": "Portable Dual Gas Detector",
+   "model": "DUO TRACER",
+   "type": "Portable Dual Gas Detector",
+   "description": [
+    "The DUO TRACER is a portable gas detector that utilizes the diffusion method to alert users to hazardous gas environments. This device displays the concentration levels of oxygen, explosive, or toxic gases on the LCD monitor. It is designed for simplicity and ease of use. The DUO TRACER alerts workers to potential dangers with an alarm, LED indicator, and vibration when gas levels exceed safe thresholds. The detector provides real-time gas concentration readings and identifies both maximum and minimum concentration levels. Settings can be adjusted via wireless connection or the optional SENKO IR Link."
+   ],
+   "features": [
+    {
+     "title": "Dual Gas Detection for Comprehensive Monitoring",
+     "text": "Detects two gases simultaneously for effective and reliable monitoring."
+    },
+    {
+     "title": "Wireless and IR Connectivity",
+     "text": "Provides easy connection and configuration for enhanced usability."
+    },
+    {
+     "title": "Real-time Monitoring for Instant Results",
+     "text": "Continuous monitoring with immediate feedback on gas concentration levels."
+    },
+    {
+     "title": "Water and Dustproof (IP67 Rating)",
+     "text": "Designed for use in rugged environments, ensuring durability and reliability."
+    },
+    {
+     "title": "Compact and Lightweight for Portability",
+     "text": "Easy to carry and use in a variety of settings."
+    },
+    {
+     "title": "High-performance Alarms",
+     "text": "Visual, audible, and vibration alerts for immediate notifications in hazardous situations."
+    },
+    {
+     "title": "Automatically Logs Up to 30 Alarm Events",
+     "text": "Keeps a record of recent alarms for efficient tracking and maintenance."
+    },
+    {
+     "title": "Easy Configuration and Data Management via IR Link",
+     "text": "Simplifies setup and data management for seamless operation."
+    },
+    {
+     "title": "User-friendly Operation",
+     "text": "Simple interface for easy and intuitive use."
+    },
+    {
+     "title": "Multi-docking Station",
+     "text": "Allows for easy bump testing and calibration of multiple devices simultaneously, improving operational efficiency."
+    },
+    {
+     "title": "Explosion-proof Certification",
+     "text": "Meets the global explosion-proof standards required in all countries, ensuring safe operation in hazardous environments."
+    }
+   ],
+   "images": [
+    "/images/products/duo-tracer-1.webp",
+    "/images/products/duo-tracer-2.webp",
+    "/images/products/duo-tracer-3.webp"
+   ]
+  },
+  {
+   "slug": "v-pro-benzene",
+   "category": "portable",
+   "oldSlug": "sales-portable-benzene-gas-detector-1460276",
+   "name": "Portable Benzene Gas Detector",
+   "model": "V-Pro Benzene",
+   "type": "Portable Benzene Gas Detector",
+   "description": [
+    "The V-Pro Benzene is a highly specialized, portable multi-gas detector designed to precisely measure Benzene concentrations in hazardous environments. Utilizing a gas tube specifically tailored for Benzene detection, this device offers reliable and accurate measurement, making it ideal for industries requiring strict monitoring of volatile organic compounds (VOCs), particularly Benzene. The V-Pro Benzene is equipped with an integrated pump for efficient gas sampling, especially in confined or hard-to-reach spaces. The device provides real-time data on the LCD screen and alerts users via audible alarms, LED indicators, and vibration when gas concentrations exceed preset safety thresholds. For enhanced functionality, the V-Pro offers wireless settings adjustments and data management via Senko IR-LINK or Short-range wireless communication, ensuring seamless operation and ease of use in various environments."
+   ],
+   "features": [
+    {
+     "title": "Real-time Benzene Detection",
+     "text": "Continuously monitors Benzene levels with immediate feedback on the LCD screen."
+    },
+    {
+     "title": "Gas Tube for Benzene Detection",
+     "text": "Designed for precise Benzene measurement using a dedicated gas tube."
+    },
+    {
+     "title": "Easy Benzene Tube Replacement",
+     "text": "Tool-free replacement for fast and simple maintenance."
+    },
+    {
+     "title": "Built-in Pump",
+     "text": "Ensures efficient sampling in confined or difficult-to-access environments."
+    },
+    {
+     "title": "Wireless and IR Connectivity",
+     "text": "Allows remote settings and data transfer via IR-LINK or wireless communication."
+    },
+    {
+     "title": "Durability",
+     "text": "IP67-rated for excellent dust and water resistance."
+    },
+    {
+     "title": "Extended Battery Life",
+     "text": "Up to 60 hours on a single charge."
+    },
+    {
+     "title": "High-Performance Alarms",
+     "text": "Alerts via LED, buzzer, and vibration for safety assurance."
+    },
+    {
+     "title": "Event Logging",
+     "text": "Stores up to 30 events including alarms and calibrations."
+    },
+    {
+     "title": "User-Friendly Interface",
+     "text": "Four-button layout for easy operation."
+    },
+    {
+     "title": "Explosion-proof Certification",
+     "text": "Safe for use in oil & gas, chemical, and mining environments."
+    }
+   ],
+   "images": [
+    "/images/products/v-pro-benzene-1.webp",
+    "/images/products/v-pro-benzene-2.webp",
+    "/images/products/v-pro-benzene-3.webp"
+   ]
+  },
+  {
+   "slug": "igas-detector-co2",
+   "category": "portable",
+   "oldSlug": "sales-portable-co2-detector-1625507",
+   "name": "Portable CO2 Detector",
+   "model": "iGas Detector CO2",
+   "type": "Portable CO2 Detector",
+   "description": [
+    "The iGas Detector CO2 is a portable device equipped with an infrared (IR) sensor, designed for real-time CO2 concentration monitoring. This detector provides accurate readings and safety alerts by displaying CO2 levels, tracking maximum and minimum concentrations, and triggering alarms with LED, sound, and vibration. The settings can be adjusted via the device or PC for flexibility in various applications."
+   ],
+   "features": [
+    {
+     "title": "IR Sensor Technology",
+     "text": "Utilizes advanced infrared technology for accurate and reliable CO2 measurement."
+    },
+    {
+     "title": "Rechargeable Li-ion Battery",
+     "text": "Long-lasting battery with a recharge cycle for added convenience."
+    },
+    {
+     "title": "Extended Battery Life",
+     "text": "Up to 14 days of continuous operation on a single full charge."
+    },
+    {
+     "title": "Measurement in %vol and ppm",
+     "text": "Provides flexible measurement options for both % volume and parts per million (ppm)."
+    },
+    {
+     "title": "Lightweight",
+     "text": "Weighs only 135g, making it easy to carry and handle in various environments."
+    },
+    {
+     "title": "Backlit Display",
+     "text": "Clear and visible display, even in low-light conditions."
+    },
+    {
+     "title": "Automatic Alarm Logging",
+     "text": "Automatically logs alarm events for easy tracking and troubleshooting."
+    },
+    {
+     "title": "International Wall Plug Kit",
+     "text": "Exchangeable wall plug kit to accommodate various international standards."
+    },
+    {
+     "title": "PC Software",
+     "text": "Easy configuration and data management through dedicated PC software."
+    },
+    {
+     "title": "Configurable Calibration and Bump Test",
+     "text": "Customizable calibration settings and bump test functionality for accurate operation."
+    },
+    {
+     "title": "Self-test Function",
+     "text": "Periodic self-testing ensures the device is in proper working condition, providing early warnings if necessary."
+    }
+   ],
+   "images": [
+    "/images/products/igas-detector-co2-1.webp",
+    "/images/products/igas-detector-co2-2.webp",
+    "/images/products/igas-detector-co2-3.webp"
+   ]
+  },
+  {
+   "slug": "sp-secure",
+   "category": "portable",
+   "oldSlug": "sales-sp-secure-1370406",
+   "name": "SP secure",
+   "model": "SP Secure",
+   "type": "Portable Gas Leak Detector",
+   "description": [
+    "SP Secure is a portable gas leak detector designed to ensure user safety and protect industrial facilities by detecting gas leaks early in environments with a constant risk of explosion.",
+    "With only two-button operation, it offers easy handling and sensor calibration. The %LEL and concentration levels of flammable gases (such as LPG, LNG, and hydrogen) are displayed clearly on a digital LCD monitor.",
+    "When gas concentration exceeds the safety threshold, a loud alarm and warning icon alert workers immediately.",
+    "Equipped with a built-in suction pump, alarm On/Off control, and customizable alarm settings, SP Secure adapts effectively to various working conditions and gas types.",
+    "With fast response time and high accuracy, SP Secure is the optimal solution to prevent explosions and reduce asphyxiation risks caused by gas exposure."
+   ],
+   "features": [],
+   "images": [
+    "/images/products/sp-secure-1.webp",
+    "/images/products/sp-secure-2.webp"
+   ]
+  },
+  {
+   "slug": "si-100",
+   "category": "fixed",
+   "oldSlug": "sales-fixed-gas-detector-si-100-1574769",
+   "name": "Fixed Gas Detector SI-100",
+   "model": "SI-100",
+   "type": "Fixed Gas Detector",
+   "description": [
+    "The SI-100 is a fixed gas detector designed to continuously monitor the presence of toxic gases, combustible gases, and oxygen in industrial environments. With an explosion-proof structure and a wide range of sensor options, the SI-100 provides stable and reliable gas detection in hazardous areas. It features a large LCD display with white backlight for clear visibility and supports easy operation and calibration using a magnetic bar. The SI-100 provides output via 4-20mA signals and RS-485 communication, ensuring easy integration with control systems."
+   ],
+   "features": [
+    {
+     "title": "Supports various sensor types",
+     "text": ""
+    },
+    {
+     "title": "Easy operation using a magnetic bar",
+     "text": ""
+    },
+    {
+     "title": "Large digital LCD display with blue backlight",
+     "text": ""
+    },
+    {
+     "title": "Explosion-proof structure",
+     "text": ""
+    },
+    {
+     "title": "Water and dust proof design",
+     "text": ""
+    },
+    {
+     "title": "Automatic calibration by simply applying gas",
+     "text": ""
+    },
+    {
+     "title": "Long-distance signal transmission via 4–20mA output",
+     "text": ""
+    },
+    {
+     "title": "Relay contact output signal",
+     "text": ""
+    }
+   ],
+   "images": [
+    "/images/products/si-100-1.webp",
+    "/images/products/si-100-2.webp"
+   ]
+  },
+  {
+   "slug": "si-200a",
+   "category": "fixed",
+   "oldSlug": "sales-fixed-gas-detector-si-200a-1151835",
+   "name": "Fixed Gas Detector SI-200A",
+   "model": "SI-200A",
+   "type": "Ex ia Fixed Gas Detector",
+   "description": [
+    "SI-200A is an intrinsically safe (Ex ia) fixed gas detector designed for fast and accurate detection of toxic gases such as HCl, NH?, and Cl?—gases that often suffer from delayed response due to adsorption in conventional flameproof (Ex d) detectors. With its optimized sensor housing and internal structure, the SI-200A minimizes adsorption effects, ensuring faster response time and higher measurement accuracy.",
+    "This diffusion-type explosion-proof detector is suitable for hazardous areas where toxic, oxygen, or combustible gases may be present. It features a large LCD for real-time gas concentration display and self-diagnostics. The device supports 4–20mA analog output (HART optional), RS-485 digital communication, and enables convenient configuration and calibration via wireless connection."
+   ],
+   "features": [
+    {
+     "title": "Explosion-proof Structure (Transmitter)",
+     "text": "Ensures safety in hazardous areas."
+    },
+    {
+     "title": "Intrinsically Safe Sensor Housing",
+     "text": "Certified Ex ia structure for high-risk environments."
+    },
+    {
+     "title": "Optimized for Adsorptive Toxic Gases",
+     "text": "Fast and accurate detection of HCl, NH?, Cl?, and similar gases."
+    },
+    {
+     "title": "4-digit Gas Concentration Display",
+     "text": "Provides real-time readings on a large LCD screen."
+    },
+    {
+     "title": "Self-diagnostic Function via LCD",
+     "text": "Enables early detection of sensor or system faults."
+    },
+    {
+     "title": "4–20mA Output (HART Optional) / RS-485 Communication",
+     "text": "Supports both analog and digital data transmission."
+    },
+    {
+     "title": "Wireless Communication Supported",
+     "text": "Allows remote configuration and calibration."
+    },
+    {
+     "title": "Suitable for Hazardous Area Installation",
+     "text": "Designed for industrial environments with explosion risks."
+    }
+   ],
+   "images": [
+    "/images/products/si-200a-1.webp",
+    "/images/products/si-200a-2.webp",
+    "/images/products/si-200a-3.webp"
+   ]
+  },
+  {
+   "slug": "si-200e",
+   "category": "fixed",
+   "oldSlug": "sales-fixed-gas-detector-si-200e-1401689",
+   "name": "Fixed Gas Detector SI-200E",
+   "model": "SI-200E",
+   "type": "Diffusion Type Fixed Gas Detector",
+   "description": [
+    "SI-200E is a fixed gas detector designed for installation in areas with potential gas hazards. It measures oxygen, toxic gases, and combustible gases, displaying gas concentrations and self-diagnostic results via its LED display. It supports connection to controllers via 4-20mA analog output or RS-485 digital communication, and Bluetooth connectivity enables easy configuration and real-time data monitoring through mobile devices."
+   ],
+   "features": [
+    {
+     "title": "Explosion-proof certified",
+     "text": "ATEX, IECEx, CE approved"
+    },
+    {
+     "title": "4-digit digital concentration display",
+     "text": ""
+    },
+    {
+     "title": "Multiple communication interfaces",
+     "text": "4-20mA output & RS-485"
+    },
+    {
+     "title": "Wireless connectivity",
+     "text": "Real-time mobile device monitoring"
+    },
+    {
+     "title": "Robust design",
+     "text": "Reliable performance in harsh and hazardous environments"
+    },
+    {
+     "title": "Advanced detection technology",
+     "text": "Provides superior performance"
+    }
+   ],
+   "images": [
+    "/images/products/si-200e-1.webp",
+    "/images/products/si-200e-2.webp",
+    "/images/products/si-200e-3.webp"
+   ]
+  },
+  {
+   "slug": "si-301",
+   "category": "sampling",
+   "oldSlug": "sales-sampling-type-fixed-gas-detector-si-301-1468429",
+   "name": "Sampling Type Fixed Gas Detector SI-301",
+   "model": "SI-301",
+   "type": "Sampling Type Fixed Gas Detector",
+   "description": [
+    "SI-301 is an explosion-proof sampling type gas detector that remotely draws and measures sample gas in real time through a sensor cartridge inside the device. It is designed to help prevent or manage various gas-related incidents such as asphyxiation, poisoning, fire and explosion, or corrosion in hazardous areas across diverse industrial environments."
+   ],
+   "features": [
+    {
+     "title": "Flameproof (Explosion-Proof) Structure",
+     "text": ""
+    },
+    {
+     "title": "Cartridge-type Sensor",
+     "text": "Easy Maintenance"
+    },
+    {
+     "title": "Built-in Flow Control Function",
+     "text": ""
+    },
+    {
+     "title": "4-digit Digital Concentration and Flow Display",
+     "text": ""
+    },
+    {
+     "title": "Supports",
+     "text": "4-20mA / RS-485 / Ethernet"
+    }
+   ],
+   "images": [
+    "/images/products/si-301-1.webp",
+    "/images/products/si-301-2.webp",
+    "/images/products/si-301-3.webp"
+   ]
+  },
+  {
+   "slug": "si-h100",
+   "category": "sampling",
+   "oldSlug": "sales-sampling-type-fixed-gas-detector-si-h100-1448118",
+   "name": "Sampling Type Fixed Gas Detector SI-H100",
+   "model": "SI-H100",
+   "type": "Sampling Type Fixed Gas Detector",
+   "description": [
+    "SI-H100 measures sample gas by a sensor cartridge inside the device through remote suction in real-time continuously. It can monitor up to 100 feet (30 meters) away and triggers alarms for dangerous concentration or faults. It is designed to prevent and control a variety of gas-related accidents including toxic and flammable gases in industrial environments through reliable sensor technology. For substances such as NF3 that cannot be measured with conventional sensors, an optional pyrolyzer module is available to detect gases through thermal decomposition."
+   ],
+   "features": [
+    {
+     "title": "Simple installation and easy-to-use design",
+     "text": ""
+    },
+    {
+     "title": "Extractive pump system",
+     "text": "Sampling up to 30M, 2 years lifetime"
+    },
+    {
+     "title": "Smart sensor cartridge onboard",
+     "text": ""
+    },
+    {
+     "title": "Large bright graphic LCD",
+     "text": "Intuitive icon-based interface"
+    },
+    {
+     "title": "3 Built-in relays",
+     "text": "Alarm 1st, 2nd, and fault"
+    },
+    {
+     "title": "Ethernet (PoE) communication",
+     "text": ""
+    },
+    {
+     "title": "Optional",
+     "text": "Pyrolyzer module"
+    },
+    {
+     "title": "4-20mA analog output / Event and fault reporting",
+     "text": ""
+    },
+    {
+     "title": "Modbus/TCP Ethernet",
+     "text": "Compatible with all control and alarm systems"
+    },
+    {
+     "title": "Firmware update available via web",
+     "text": ""
+    },
+    {
+     "title": "RS-485, TCP Ethernet communication",
+     "text": ""
+    },
+    {
+     "title": "Detects gases at ppb (parts-per-billion) levels",
+     "text": ""
+    }
+   ],
+   "images": [
+    "/images/products/si-h100-1.webp",
+    "/images/products/si-h100-2.webp",
+    "/images/products/si-h100-3.webp"
+   ]
+  },
+  {
+   "slug": "bmc-2000",
+   "category": "health",
+   "oldSlug": "sales-smoking-detector-1404065",
+   "name": "Smoking Detector",
+   "model": "BMC-2000",
+   "type": "Smoking Detector",
+   "description": [
+    "The BMC-2000 can be used by healthcare professionals in smoking cessation programs. It also serves as a non-invasive tool to assess %COHb levels in a patient’s blood and screen for carbon monoxide poisoning. Its compact and lightweight design makes it ideal for handheld use. Commonly used in smoking cessation clinics, it helps track client progress and compliance."
+   ],
+   "features": [
+    {
+     "title": "Non-invasive method to assess carbon monoxide (CO) poisoning",
+     "text": ""
+    },
+    {
+     "title": "Simple, indirect device for measuring carboxyhemoglobin (COHb) levels in blood",
+     "text": ""
+    },
+    {
+     "title": "Effective tool for distinguishing smokers",
+     "text": ""
+    },
+    {
+     "title": "Helps identify the degree of CO exposure, including smoking habits",
+     "text": ""
+    },
+    {
+     "title": "Supports two languages: English and Korean",
+     "text": ""
+    },
+    {
+     "title": "Simultaneous display of breath CO concentration and COHb percentage",
+     "text": ""
+    },
+    {
+     "title": "Multiple user modes: Adult / Pregnant / Young",
+     "text": ""
+    },
+    {
+     "title": "Data management and analysis via software",
+     "text": ""
+    }
+   ],
+   "images": [
+    "/images/products/bmc-2000-1.webp",
+    "/images/products/bmc-2000-2.webp",
+    "/images/products/bmc-2000-3.webp"
+   ]
+  }
+ ],
+ "services": [
+  {
+   "slug": "fabrication",
+   "oldSlug": "services-fabrication-4789063",
+   "name": "Fabrication",
+   "images": [
+    "/images/services/fabrication-2.webp",
+    "/images/services/fabrication-1.webp"
+   ],
+   "blocks": [
+    {
+     "type": "p",
+     "text": "What is Fabrication?"
+    },
+    {
+     "type": "p",
+     "text": "Fabrication is the action or process of manufacturing or inventing something."
+    },
+    {
+     "type": "p",
+     "text": "Fabrication is using processes to create component parts can be use to make product or structure. As well as the process of constructing an item from standardised parts."
+    },
+    {
+     "type": "p",
+     "text": "Example of fabrication is Steel. Steel will go through a fabrication process first before becoming a tool with a new function, such as becoming a steel frame."
+    }
+   ]
+  },
+  {
+   "slug": "chemical-cleaning",
+   "oldSlug": "services-chemical-cleaning-6787449",
+   "name": "Chemical Cleaning",
+   "images": [
+    "/images/services/chemical-cleaning-1.webp",
+    "/images/services/chemical-cleaning-2.webp"
+   ],
+   "blocks": [
+    {
+     "type": "p",
+     "text": "What is Chemical Cleaning?"
+    },
+    {
+     "type": "p",
+     "text": "Chemical Cleaning is a method to derive surfaces and walls of equipment, pipelines, vessels, kettles and heat exchangers of unwanted minats. Chemical cleaning also means the purification, conditioning, treatment or disinfection of water."
+    }
+   ]
+  },
+  {
+   "slug": "rental-welding-chamber",
+   "oldSlug": "services-rental-welding-chamber-8799007",
+   "name": "Rental Welding Chamber",
+   "images": [
+    "/images/services/rental-welding-chamber-1.webp",
+    "/images/services/rental-welding-chamber-2.webp",
+    "/images/services/rental-welding-chamber-3.webp",
+    "/images/services/rental-welding-chamber-4.webp"
+   ],
+   "blocks": [
+    {
+     "type": "p",
+     "text": "What is Rental Welding Chamber?"
+    },
+    {
+     "type": "p",
+     "text": "Rental Welding Chamber or Welding Habitat is tents for project pipe welding facilities that are vulnerable to gases that can cause fires. By using a Welding Habitat or Chamber Welding, this possibility will be very small because this tent is equipped with a gas detector."
+    }
+   ]
+  }
+ ],
+ "training": [
+  {
+   "slug": "confined-space",
+   "oldSlug": "training-facility-confined-space-1657697",
+   "name": "Confined Space",
+   "images": [
+    "/images/training/confined-space-1.webp"
+   ],
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The purpose of the training is to prepare employees who may work in any area which is large enough and so configured that an employee can bodily enter and perform work, and has limited or restricted means of entry or exit, and is not designed for continuous human occupancy."
+    },
+    {
+     "type": "p",
+     "text": "To successfully complete this course, participants must be able to demonstrate an understanding of the following elements:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Recognition of confined spaces",
+      "Hazardous atmospheres and dangers associated with these areas",
+      "Use of correct PPE in confined space",
+      "Risk Assessments and Working Permits",
+      "Safe Systems of Work for entry into confined spaces",
+      "Methods of communication",
+      "Use of multi gas monitors",
+      "Human respiratory system",
+      "Disease and personal hygiene associated with confined spaces",
+      "Using and testing of confined space equipment",
+      "Emergency procedures"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "authorized-gas-tester",
+   "oldSlug": "training-facility-authorized-gas-tester-7989410",
+   "name": "Authorized Gas Tester",
+   "images": [
+    "/images/training/authorized-gas-tester-1.webp"
+   ],
+   "blocks": [
+    {
+     "type": "p",
+     "text": "In a high-risk environments relevant to gas exposure, the role of authorised gas tester (AGT) is essential in testing for and ensuring safe working condition to prevent any accident."
+    },
+    {
+     "type": "p",
+     "text": "To attend this course, there are no prerequisites required. All 16 participants at the maximum per class are expected to be personnel that are authorised gas testers. However, the class being undertaken may vary depending on the workplace operation, complexity and responsibility. Accordingly, the AGT role has been split into three levels: AGT Level 1, AGT Level 2 and AGT Level 3. Following are further explanation of each level:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "AGT Level 1, is required for those involved with performing a test for oxygen, flammable and toxic gases up to and including working in confined spaces. To successfully complete this course, participants must be able to understands and demonstrate the following elements: Prepare to carry out a test for oxygen, toxic, and flammable gases in confined spaces. This element is a discussion on worksite preparation regarding test and identification the correct gas detector for the particular area/ environment. Complete gas tests for oxygen, toxic, and flammable gases in confined spaces. This element is a discussion on gas test completion according to manufacturers’ and company requirements. Prepare to carryout a test for flammable gasses in preparation for hot work. This element is a discussion on worksite preparation regarding test and identification the correct gas detector for the particular area/ environment. Complete the gas test for flammable gasses. This element is a discussion on gas test completion according to manufacturers’ and company requirements. Monitor the work area for flammable gasses. This element is a discussion on how to perform effective and efficient monitoring process and deliver its report accurately in timely manner.",
+      "AGT Level 2 is required for those involved with testing for flammable gas in preparation for hot work. To successfully complete this course, participants must be able to demonstrate an understanding of the following elements:Prepare to carryout a test for flammable gasses in preparation for hot work. This element is a discussion on worksite preparation regarding test and identification the correct gas detector for the particular area/ environment.Complete the gas test for flammable gasses. This element is a discussion on gas test completion according to manufacturers' and company requirements.",
+      "AGT Level 3 is required for those who provide safety watch duties by the ongoing monitoring of a hot work site. To successfully complete this course, participants must be able to demonstrate an understanding of the following elements:Monitor the work area for flammable gas. This element is a discussion on how to perform effective and efficient monitoring process and deliver its report accurately in timely manner."
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "h2s-safety-awareness",
+   "oldSlug": "training-facility-h2s-safety-awareness-8945942",
+   "name": "H2S Safety Awareness",
+   "images": [
+    "/images/training/h2s-safety-awareness-1.webp"
+   ],
+   "blocks": [
+    {
+     "type": "p",
+     "text": "H2S (hydrogen sulphide) is a gas formed by natural biological processes that poses a serious threat to people or assets due to its extreme toxic and corrosive properties. It is essential for any relevant personnel to be competent in emergency response practices necessary for them to stay and work in an environment with potential for exposure to H2S gas."
+    },
+    {
+     "type": "p",
+     "text": "To attend this course, there are no prerequisites required. However, all 16 participants at the maximum per class are expected to be personnel that are, or could be, working in an environment that could become contaminated by H2S gas."
+    },
+    {
+     "type": "p",
+     "text": "After training completion, participants are expected to fully capable in explain and demonstrating the following:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Hydrogen Sulphide roots",
+      "Other names, properties and characteristics for H2S",
+      "Measurement parameter and exposure limits to H2S",
+      "Types of detector equipment and respiratory equipment.",
+      "Pre-use checks of personal detection devices and EBA.",
+      "Operating personal H2S detection equipment.",
+      "Responding to an alarm.",
+      "Donning & operating an escape breathing apparatus (EBA) with a mask and a hood.",
+      "Connecting to a pressurised cascade breathing system with an activated EBA subject to correct donning.",
+      "Disconnecting from a pressurised cascade breathing system with an activated EBA subject to correct donning."
+     ]
+    }
+   ]
+  }
+ ],
+ "gallery": [
+  {
+   "title": "SCBA Training",
+   "kind": "image",
+   "image": "/images/gallery/scba-training.webp"
+  },
+  {
+   "title": "Trailer: Hydrogen Sulfide (H2S) Gas Safety Awareness Training",
+   "kind": "video",
+   "youtube": "yM4ii4xiWwU",
+   "image": "/images/gallery/h2s-trailer.webp"
+  },
+  {
+   "title": "Basic Fire Fighting (BFF)",
+   "kind": "image",
+   "image": "/images/gallery/basic-fire-fighting.webp"
+  },
+  {
+   "title": "H2S Awareness Online Training",
+   "kind": "video",
+   "youtube": "SoTVqyB2aa0",
+   "image": "/images/gallery/h2s-online.webp"
+  },
+  {
+   "title": "Confined Space",
+   "kind": "image",
+   "image": "/images/gallery/confined-space.webp"
+  }
+ ],
+ "blog": [
+  {
+   "slug": "danger-of-toxic-gases",
+   "oldSlug": "blog-danger-of-toxic-gases-3",
+   "title": "Danger of Toxic Gases",
+   "date": "2022-06-23",
+   "dateLabel": "Jun 23rd, 2022",
+   "image": "/images/blog/danger-of-toxic-gases.webp",
+   "excerpt": "As we know poisonous gas is something dangerous, therefore we need to carry out training if we work in a field where poisonous gas is present.",
+   "blocks": [
+    {
+     "type": "h",
+     "text": "Become Global Energy Services Contractor"
+    },
+    {
+     "type": "h",
+     "text": "Poisonous gas"
+    },
+    {
+     "type": "p",
+     "text": "As we know poisonous gas is something dangerous, therefore we need to carry out training if we work in a field where poisonous gas is present. short meaning toxic gases are gases that react with blood and can cause death."
+    },
+    {
+     "type": "p",
+     "text": "Which includes the following poisonous gases:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Chlorine",
+      "Arsenic",
+      "Carbon monoxide",
+      "Sarin",
+      "Compound 1080",
+      "Ricin."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Flammable toxic gas safety service training"
+    },
+    {
+     "type": "p",
+     "text": "Toxic gas is a chemical gas that can cause poisoning if the gas is inhaled by humans. Toxic gas safety service training is very necessary to anticipate undesirable events."
+    },
+    {
+     "type": "h",
+     "text": "Gas Equipment Sales and Utility Services"
+    },
+    {
+     "type": "p",
+     "text": "Utilities are a set of services provided by organizations that are consumed by the public: coal, electricity, natural gas, water, wastewater, telephone, and transportation."
+    },
+    {
+     "type": "h",
+     "text": "Conclusion"
+    },
+    {
+     "type": "p",
+     "text": "After reading the explanation above, Winarto Mitra Pratama (WMP) briefly started training and providing flammable toxic gas services in 2012. Because clients wanted wider coverage, in 2015 WMP started selling and servicing gas equipment as well as utility work."
+    }
+   ],
+   "inlineImages": [
+    "/images/blog/toxic-gas-1.webp",
+    "/images/blog/toxic-gas-2.webp",
+    "/images/blog/toxic-gas-3.webp"
+   ]
+  }
+ ],
+ "hero": [
+  "/images/hero/hero-1.webp",
+  "/images/hero/hero-2.webp",
+  "/images/hero/hero-3.webp",
+  "/images/hero/hero-4.webp",
+  "/images/hero/crew-offshore.webp"
+ ]
+}
